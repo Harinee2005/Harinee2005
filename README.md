@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, JavaScript, React, Node.js, Express, SQL
+- 🌱 Enhancing my skills
 - 🎓 Pursuing a degree in B.Tech Information Technology
 
 ---
@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 - Node.js
 - Express.js
 - SQL
+- Python
 
 ---
 

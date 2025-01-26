@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 ---
 
 ## Checkout my Resume!
-- [Drive](https://drive.google.com/file/d/1X6vh068bI7R06QbhKVUu1vtKCEC172jT/view)
+- [Resume](https://drive.google.com/file/d/1X6vh068bI7R06QbhKVUu1vtKCEC172jT/view)
 
 Feel free to explore my repositories! 😊

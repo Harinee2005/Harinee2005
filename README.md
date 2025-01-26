@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 - Express.js
 - SQL
 - Python
-- VS Code
-- GitHub
 - Figma
 
 ---

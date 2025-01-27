@@ -56,7 +56,16 @@ Authentication
 User Credential: Prime User: username: rahul password: rahul@2021
 Non-prime User: username: raja password: raja@2021
 
+
 - IPL Dashboard [Live Link](harineziplboard.ccbp.tech) [GitHub](https://github.com/Harinee2005/IPL)
+
+Designed a one-stop destination for IPL team and match information.
+Navigated effortlessly with React Router, displaying team information and matches with dynamic REST API calls.
+Accounted for invalid routes with a 404 page.
+
+Technologies used: React JS, Routing, REST API Calls, CSS, Bootstrap
+
+
 - Emoji Game [Live Link](https://eemmoojjiigame.ccbp.tech) [GitHub](https://github.com/Harinee2005/Emoji-Game)
 - Password Manager [Live Link](https://passmaintainer.ccbp.tech) [GitHub](https://github.com/Harinee2005/Password-Manager)
 - Rock Paper Scissors [Live Link](https://harinezropapsci.ccbp.tech) [GitHub](https://github.com/Harinee2005/Rock-Paper-Scissors)

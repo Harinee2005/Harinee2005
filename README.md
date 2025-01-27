@@ -30,13 +30,32 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 ---
 
 ## Checkout my Resume!
-- [Resume](https://drive.google.com/file/d/1X6vh068bI7R06QbhKVUu1vtKCEC172jT/view)
+- [View My Resume](https://drive.google.com/file/d/1X6vh068bI7R06QbhKVUu1vtKCEC172jT/view)
 
 ---
 
 ## Projects! 
 - Jobby App [Live Link](harineezzjobbz.ccbp.tech) [GitHub](https://github.com/Harinee2005/Jobby)
+
+Constructed an all-in-one job searching platform, Jobby App.
+Built pages for Login, Home, Jobs, and Job item details with React components, form inputs, and event handlers.
+Ensured secure authentication with JWT tokens and REST API calls.
+Persisted login state with local storage and protected routes with React Router.
+Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization,
+Authentication
+User Credential: username: rahul password: rahul@2021
+
+
 - Nxt Trends (E-commerce) [Live Link](harineestrendz.ccbp.tech) [GitHub](https://github.com/Harinee2005/Nxt)
+
+Created a modern e-commerce experience with a design inspired by Amazon and Flipkart.
+Implemented pages for Login, Products, and Product details with React Router, React components, and form inputs.
+Secured user data with JWT tokens, REST API calls, and local storage.
+Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization,
+Authentication
+User Credential: Prime User: username: rahul password: rahul@2021
+Non-prime User: username: raja password: raja@2021
+
 - IPL Dashboard [Live Link](harineziplboard.ccbp.tech) [GitHub](https://github.com/Harinee2005/IPL)
 - Emoji Game [Live Link](https://eemmoojjiigame.ccbp.tech) [GitHub](https://github.com/Harinee2005/Emoji-Game)
 - Password Manager [Live Link](https://passmaintainer.ccbp.tech) [GitHub](https://github.com/Harinee2005/Password-Manager)

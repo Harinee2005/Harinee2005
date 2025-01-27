@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 ---
 
 ## Checkout my Resume!
-- [View My Resume](https://drive.google.com/file/d/1X6vh068bI7R06QbhKVUu1vtKCEC172jT/view)
+- [View My Resume](https://drive.google.com/file/d/1Yd3XOdjXzmo8Kd1hSr75wOvUdBYaHl1q/view?usp=drivesdk)
 
 ---
 

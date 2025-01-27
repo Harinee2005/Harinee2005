@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ## Projects! 
 - Jobby App
-[Live Link](harineezzjobbz.ccbp.tech)
-[GitHub](https://github.com/Harinee2005/Jobby)
+-- [Live Link](harineezzjobbz.ccbp.tech)
+-- [GitHub](https://github.com/Harinee2005/Jobby)
 
 Constructed an all-in-one job searching platform, Jobby App.
 Built pages for Login, Home, Jobs, and Job item details with React components, form inputs, and event handlers.

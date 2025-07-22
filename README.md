@@ -29,11 +29,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ---
 
-## Checkout my Resume!
-- [View My Resume](https://drive.google.com/file/d/1wQDfG5qZ5VhPYOV9-2gmfx4kd9DdrEfe/view?usp=drive_link)
-
----
-
 ## Projects! 
 ## Jobby App
 [Live Link](harineezzjobbz.ccbp.tech)
